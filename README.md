@@ -1,11 +1,10 @@
-violencia-domestica
-===================
-
 Violência doméstica
+===================
 
 Listagem do número de participações de Violência doméstica em Portugal continental e Regiões Autónomas registadas pelas Forças de Segurança (GNR e PSP) de 2008 a 2013.
 
-Dados
+## Dados
+
 Ministério da Administração Interna
 Ex- Direção-Geral de Administração Interna
 (Área de Planeamento Estratégico e Política Legislativa)
@@ -34,8 +33,10 @@ Título: Relatório anual Violência Doméstica 2010 - Ocorrências participadas
 Data publicação: Maio 2011
 Link: http://www.dgai.mai.gov.pt/files/conteudos/VD_Relatorio%20Anual_2010_2_5_2011.pdf
 
-Limitações
+## Limitações
+
 Os dados das Regiões Autónomas referentes à GNR ora surgem nos ficheiros originais com O ora com traço, tendo-se considerado: no primeiro caso, 0 (zero) ocorrências e, no segundo, ND (não disponível).
 
-Licença
+##  Licença
+
 Presume-se que a informação aqui contida é de caráter público, e como tal ela é aqui republicada de acordo com os termos da PDDL (Licença de Base de Dados de Domínio Público).
