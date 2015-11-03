@@ -16,7 +16,6 @@
       "path": "dgai_violencia_domestica_2008_2014.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 4688,
       "schema": {
         "fields": [
           {
@@ -39,6 +38,6 @@
       }
     }
   ],
-  "description": "Violência doméstica - monitorização",
+  "description": "Número de ocorrências de violência doméstica entre 2008 e 2013",
   "repository": "https://github.com/transparenciahackday/violencia-domestica"
 }
