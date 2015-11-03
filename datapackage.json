@@ -13,7 +13,7 @@
   "resources": [
     {
       "name": "dgai_violencia_domestica_2008_2014.csv",
-      "path": "dgai_violencia_domestica_2008_2014.csv",
+      "path": "data/dgai_violencia_domestica_2008_2014.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
