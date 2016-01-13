@@ -13,7 +13,7 @@
   "resources": [
     {
       "name": "dgai_violencia_domestica_2008_2014.csv",
-      "title": "Ocorrências de Violência Doméstica (2008-2014)"
+      "title": "Ocorrências de Violência Doméstica (2008-2014)",
       "path": "data/dgai_violencia_domestica_2008_2014.csv",
       "format": "csv",
       "mediatype": "text/csv",
